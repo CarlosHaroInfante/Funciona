@@ -1,0 +1,14 @@
+C:\Users\Carlos\Desktop\Programación\ConNota\bin\Debug\net7.0\ConNota.exe
+C:\Users\Carlos\Desktop\Programación\ConNota\bin\Debug\net7.0\ConNota.deps.json
+C:\Users\Carlos\Desktop\Programación\ConNota\bin\Debug\net7.0\ConNota.runtimeconfig.json
+C:\Users\Carlos\Desktop\Programación\ConNota\bin\Debug\net7.0\ConNota.dll
+C:\Users\Carlos\Desktop\Programación\ConNota\bin\Debug\net7.0\ConNota.pdb
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.dll
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\refint\ConNota.dll
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.pdb
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ConNota.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\Programación\ConNota\obj\Debug\net7.0\ref\ConNota.dll
